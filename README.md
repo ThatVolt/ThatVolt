@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
    <img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">CSS, Python, Javascript, Nodejs, HTML</p>
+<p align="center"> Python, Javascript, Nodejs</p>
 
 <hr>
 
