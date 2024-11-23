@@ -25,4 +25,9 @@
 
 <hr>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2 align="center">🤔 More Info</h2>
+<p align=center >
+  <a href=https://github.com/anuraghazra/github-readme-stats >
+    <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=LunarTaku&bg_color=1e2124&text_color=8291ff&title_color=8291ff&icon_color=8291ff&show_icons=true&border_color=aaa&border_radius=24" />
+  </a>
+</p>>
