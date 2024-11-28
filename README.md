@@ -1,7 +1,7 @@
 <h2 align="center"> 🗣️ Who am i?</h2>
 <p align="center">
   <samp>
-    I am a developer that works in Javascript, Java, Python, and many more! I make open-source discord.js commands for the general public to use and enjoy.
+    I am a developer that works in Javascript, Java, Python, and many more!
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=whois-MidNight" alt="https://github.com/whois-MidNight" />
